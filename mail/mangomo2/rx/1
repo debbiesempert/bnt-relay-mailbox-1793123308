@@ -1,0 +1,1 @@
+{"id":1,"status":"ok","result":{"capabilities":["submit_claimed_hash","difficulty_hint","same_template_rebind_v1"],"protocol_version":2,"required_capabilities":["submit_claimed_hash"]}}

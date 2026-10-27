@@ -1,0 +1,1 @@
+{"id":1,"method":"login","params":{"address":"3SQoYoCWGr78m6cuVtka2U75icq5QivjC9sCMCfvp5y7cEhgGhQt75p8tAGspkXRFPnRAzg3yk3E1kS2Vh7M4ARZJVzJB","worker":"sandboxm01","protocol_version":2,"capabilities":["login_negotiation","share_validation_status","submit_claimed_hash","difficulty_hint","same_template_rebind_v1"]}}
